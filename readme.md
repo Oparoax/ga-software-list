@@ -1,7 +1,11 @@
 # Games Academy Software List 
 ## 2024-25 Academic Year
-  
-  ### Game Engines
+
+A list of software available in the studios, along with licensing information and versions for you to be able to work at home. 
+
+Please note that in most instances the software available is not the latest version. This is because we finalise our IT build in the summer before each academic year begins, and we generally leave that version installed throughout the year to avoid any upgrade bugs (e.g. new versions of game engines tend to deprecate APIs that can be complex and time consuming to resolve in your projects). We always prioritise tried-and-tested and slightly older versions of applications over cutting edge features, which mirrors industry practice. 
+
+### Game Engines
 
 | App| Version | Link | Notes |
 | ----------- | ----------- |----------- |----------- |
