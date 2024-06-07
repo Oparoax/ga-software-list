@@ -27,3 +27,9 @@ Please note that in most instances the software available is not the latest vers
 | Adobe Substance Suite | TBC | | Substance Tools are _**free**_ for student use on your own personal computer, this is the version we use within the studio. _(To access substance tools from home you will need to register for a student substance license via their webpage which can be found [here](https://www.substance3d.com/education/).)_
 | Adobe Full Suite (Photoshop, Premiere etc.) | Latest | | While available for all students to use for free in the GA studios, at-home access requires a paid license. Falmouth University has a deal with Adobe, which allows students to purchase an annual license at a sizeable discount - £64.47/year. _(To purchase the cut-price deal for at-home Adobe access, please click [here](https://softwareregistration.falmouth.ac.uk/).)_
 | ZBrush | 2022.0.5 | | ZBrush is available via the [Maxon One subscription](https://www.maxon.net/en/educational-licenses), available with an educational discount at £66 for one year.
+
+### Computing and Robotics
+
+| App| Version | Link | Notes |
+| ----------- | ----------- |----------- |----------- |
+| Arduino IDE | 1.8.19 | [Download](https://www.arduino.cc/en/software) | An IDE for coding microcontrollers used in devices such as controllers and other electronics.
