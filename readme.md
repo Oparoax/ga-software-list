@@ -24,9 +24,12 @@ Please note that in most instances the software available is not the latest vers
 | App| Version | Link | Notes |
 | ----------- | ----------- |----------- |----------- |
 | Autodesk Maya | 2025 | [Download](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual) | Free for educational use. Create an Autodesk account to download and activate your free license. 
-| Adobe Substance Suite | TBC | | Substance Tools are _**free**_ for student use on your own personal computer, this is the version we use within the studio. _(To access substance tools from home you will need to register for a student substance license via their webpage which can be found [here](https://www.substance3d.com/education/).)_
+| Adobe Substance 3D Painter | 10.0.1 | | Substance Tools are _**free**_ for student use on your own personal computer, this is the version we use within the studio. _(To access substance tools from home you will need to register for a student substance license via their webpage which can be found [here](https://www.substance3d.com/education/).)_
+| Adobe Substance 3D Designer | 14.0.0 | | ''
+| Adobe Substance 3D Sampler | 4.5.1 | | ''
 | Adobe Full Suite (Photoshop, Premiere etc.) | Latest | | While available for all students to use for free in the GA studios, at-home access requires a paid license. Falmouth University has a deal with Adobe, which allows students to purchase an annual license at a sizeable discount - £64.47/year. _(To purchase the cut-price deal for at-home Adobe access, please click [here](https://softwareregistration.falmouth.ac.uk/).)_
 | ZBrush | 2022.0.7 | | ZBrush is available via the [Maxon One subscription](https://www.maxon.net/en/educational-licenses), available with an educational discount at £66 for one year.
+| PureRef | 1.11.1 | [Download](https://www.pureref.com/download.php) | PureRef is free to download from their website.
 
 ### Computing and Robotics
 
