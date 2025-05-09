@@ -1,5 +1,5 @@
 # Games Academy Software List 
-## 2024-25 Academic Year
+## 2025-26 Academic Year
 
 A list of software available in the studios, along with licensing information and versions for you to be able to work at home. 
 
@@ -9,8 +9,10 @@ Please note that in most instances the software available is not the latest vers
 
 | App| Version | Link | Notes |
 | ----------- | ----------- |----------- |----------- |
-| Unreal Engine| 5.4.x | Via [Epic Games Launcher](https://store.epicgames.com/en-US/download) | We have deployed 5.4.2 in the studio, but any future bugfix releases within 5.4.x will be backwards compatible with this version. You can safely ignore any version mismatch warnings. 
-| Unity | 2023.2.20 | [Download](https://unity.com/kr/releases/editor/whats-new/2023.2.20) | We have deployed 2023.2.20 in the studio, but any future bugfix releases within 2023.2.x will be backwards compatible with this version. You can safely ignore any version mismatch warnings.
+| Unreal Engine| 5.5.4 | Via [Epic Games Launcher](https://store.epicgames.com/en-US/download) | We have deployed 5.5.4 in the studio, but any future bugfix releases within 5.5.X will be backwards compatible with this version. You can safely ignore any version mismatch warnings. 
+| Unity | 6000.0.48 | [Download](https://unity.com/kr/releases/editor/whats-new/2023.2.20) | We have deployed 6000.0.48 in the studio, but any future bugfix releases within 6000.0.XX will be backwards compatible with this version. You can safely ignore any version mismatch warnings.
+| Gamemaker | TBD | TBD |
+| Godot | TBD | TBD |
 
 ### General
 
@@ -30,6 +32,7 @@ Please note that in most instances the software available is not the latest vers
 | Adobe Full Suite (Photoshop, Premiere etc.) | Latest | | While available for all students to use for free in the GA studios, at-home access requires a paid license. Falmouth University has a deal with Adobe, which allows students to purchase an annual license at a sizeable discount - £64.47/year. _(To purchase the cut-price deal for at-home Adobe access, please click [here](https://softwareregistration.falmouth.ac.uk/).)_
 | ZBrush | 2022.0.7 | | ZBrush is available via the [Maxon One subscription](https://www.maxon.net/en/educational-licenses), available with an educational discount at £66 for one year.
 | PureRef | 1.11.1 | [Download](https://www.pureref.com/download.php) | PureRef is free to download from their website.
+| Elemental Suite | TBD | TBD | The elemental suite of software is a new emerging software suite for procedurally generated/simulated assets.    
 
 ### Computing and Robotics
 
