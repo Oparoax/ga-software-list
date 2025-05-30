@@ -11,8 +11,8 @@ Please note that in most instances the software available is not the latest vers
 | ----------- | ----------- |----------- |----------- |
 | Unreal Engine| 5.5.4 | Via [Epic Games Launcher](https://store.epicgames.com/en-US/download) | We have deployed 5.5.4 in the studio, but any future bugfix releases within 5.5.X will be backwards compatible with this version. You can safely ignore any version mismatch warnings. 
 | Unity | 6000.0.48 | [Download](https://unity.com/kr/releases/editor/whats-new/2023.2.20) | We have deployed 6000.0.48 in the studio, but any future bugfix releases within 6000.0.XX will be backwards compatible with this version. You can safely ignore any version mismatch warnings.
-| Gamemaker | TBD | TBD |
-| Godot | TBD | TBD |
+| Gamemaker | TBD | [Download](https://gamemaker.io/en/download) | 
+| Godot | TBD | [Download](https://godotengine.org/download/windows/) | 
 
 ### General
 
@@ -20,6 +20,7 @@ Please note that in most instances the software available is not the latest vers
 | ----------- | ----------- |----------- |----------- |
 | Microsoft Office 365 | Latest | [Download](https://www.office.com/) | Microsoft Office is free to download and use on your own computer as a student at Falmouth University. Click the link and sign in with your student account, you can then select 'Install Office apps'.
 | Fork | Latest | [Download](https://git-fork.com/) | A client for git that is installed in the studio. This is free to use.
+| TortoiseGit | Latest | [Download](https://tortoisegit.org/download/) | A simple but powerful git client. This is free to use.
 
 ### Art and Animation
 
@@ -32,10 +33,15 @@ Please note that in most instances the software available is not the latest vers
 | Adobe Full Suite (Photoshop, Premiere etc.) | Latest | | While available for all students to use for free in the GA studios, at-home access requires a paid license. Falmouth University has a deal with Adobe, which allows students to purchase an annual license at a sizeable discount - £64.47/year. _(To purchase the cut-price deal for at-home Adobe access, please click [here](https://softwareregistration.falmouth.ac.uk/).)_
 | ZBrush | 2022.0.7 | | ZBrush is available via the [Maxon One subscription](https://www.maxon.net/en/educational-licenses), available with an educational discount at £66 for one year.
 | PureRef | 1.11.1 | [Download](https://www.pureref.com/download.php) | PureRef is free to download from their website.
-| Elemental Suite | TBD | TBD | The elemental suite of software is a new emerging software suite for procedurally generated/simulated assets.    
+| Elemental Suite | TBD | TBD | The elemental suite of software is a new emerging software suite for procedurally generated/simulated assets. 
+| Marmoset Toolbag | TBD | TBD | Suite of 3d asset creation and viewing/presenting tools.
 
 ### Computing and Robotics
 
 | App| Version | Link | Notes |
 | ----------- | ----------- |----------- |----------- |
 | Arduino IDE | 1.8.19 | [Download](https://www.arduino.cc/en/software) | An IDE for coding microcontrollers used in devices such as controllers and other electronics.
+| JetBrains PyCharm | Latest | [Download](https://www.jetbrains.com/pycharm/download/?section=windows) |
+| JetBrains GoLand | Latest | [Download](https://www.jetbrains.com/go/download/?section=windows#section=windows) |
+| JetBrains Rider | Latest | [Download](https://www.jetbrains.com/rider/download/?section=windows#section=windows) |
+| Android Studio | Latest | [Download](https://developer.android.com/studio) |
