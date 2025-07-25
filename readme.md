@@ -33,8 +33,7 @@ Please note that in most instances the software available is not the latest vers
 | Adobe Full Suite (Photoshop, Premiere etc.) | Latest | | While available for all students to use for free in the GA studios, at-home access requires a paid license. Falmouth University has a deal with Adobe, which allows students to purchase an annual license at a sizeable discount - £64.47/year. _(To purchase the cut-price deal for at-home Adobe access, please click [here](https://softwareregistration.falmouth.ac.uk/).)_
 | ZBrush | 2022.0.7 | | ZBrush is available via the [Maxon One subscription](https://www.maxon.net/en/educational-licenses), available with an educational discount at £66 for one year.
 | PureRef | 1.11.1 | [Download](https://www.pureref.com/download.php) | PureRef is free to download from their website.
-| Elemental Suite | TBD | TBD | The elemental suite of software is a new emerging software suite for procedurally generated/simulated assets. 
-| Marmoset Toolbag | TBD | TBD | Suite of 3d asset creation and viewing/presenting tools.
+| Marmoset Toolbag | 5.01 | [Download](https://marmoset.co/posts/marmoset-toolbag-5-official-release/#dltoolbag) | Suite of 3d asset creation and viewing/presenting tools.
 
 ### Computing and Robotics
 
