@@ -10,7 +10,7 @@ Please note that in most instances the software available is not the latest vers
 | App| Version | Link | Notes |
 | ----------- | ----------- |----------- |----------- |
 | Unreal Engine| 5.5.4 | Via [Epic Games Launcher](https://store.epicgames.com/en-US/download) | We have deployed 5.5.4 in the studio, but any future bugfix releases within 5.5.X will be backwards compatible with this version. You can safely ignore any version mismatch warnings. 
-| Unity | 6000.0.48 | [Download](https://unity.com/kr/releases/editor/whats-new/2023.2.20) | We have deployed 6000.0.48 in the studio, but any future bugfix releases within 6000.0.XX will be backwards compatible with this version. You can safely ignore any version mismatch warnings.
+| Unity | 6000.0.50 | [Download](https://unity.com/kr/releases/editor/whats-new/2023.2.20) | We have deployed 6000.0.50 in the studio, but any future bugfix releases within 6000.0.XX will be backwards compatible with this version. You can safely ignore any version mismatch warnings.
 | Gamemaker | TBD | [Download](https://gamemaker.io/en/download) | 
 | Godot | TBD | [Download](https://godotengine.org/download/windows/) | 
 
