@@ -1,5 +1,5 @@
 # Games Academy Software List 
-## 2025-26 Academic Year
+## 2026-27 Academic Year
 
 A list of software available in the studios, along with licensing information and versions for you to be able to work at home. 
 
@@ -9,8 +9,8 @@ Please note that in most instances the software available is not the latest vers
 
 | App| Version | Link | Notes |
 | ----------- | ----------- |----------- |----------- |
-| Unreal Engine| 5.6.1 | Via [Epic Games Launcher](https://store.epicgames.com/en-US/download) | We have deployed 5.6.1 in the studio, but any future bugfix releases within 5.6.X will be backwards compatible with this version. You can safely ignore any version mismatch warnings. 
-| Unity | 6000.0.58f2 | [Download](https://unity.com/releases/editor/whats-new/6000.0.58f2#notes) | We have deployed 6000.0.58f2 in the studio, but any future bugfix releases within 6000.0.XX will be backwards compatible with this version. You can safely ignore any version mismatch warnings.
+| Unreal Engine| 5.7.4 | Via [Epic Games Launcher](https://store.epicgames.com/en-US/download) | We have deployed 5.7.4 in the studio, but any future bugfix releases within 5.7.X will be backwards compatible with this version. You can safely ignore any version mismatch warnings. 
+| Unity | 6000.3.17f1 | [Download](https://unity.com/releases/editor/whats-new/6000.0.58f2#notes) | We have deployed 6000.3.17f1 in the studio, but any future bugfix releases within 6000.3.XX will be backwards compatible with this version. You can safely ignore any version mismatch warnings.
 | Gamemaker | 2024.13.1.193 | [Download](https://releases.gamemaker.io/release-notes/2024/13) | A simple game engine for making 2D games. Free to use.
 | Godot | 4.4.1 | [Download](https://godotengine.org/download/archive/4.4.1-stable/) | Open source game engine, capable of making both 2D & 3D games. Free to use.
 
