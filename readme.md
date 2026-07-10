@@ -11,8 +11,8 @@ Please note that in most instances the software available is not the latest vers
 | ----------- | ----------- |----------- |----------- |
 | Unreal Engine| 5.7.4 | Via [Epic Games Launcher](https://store.epicgames.com/en-US/download) | We have deployed 5.7.4 in the studio, but any future bugfix releases within 5.7.X will be backwards compatible with this version. You can safely ignore any version mismatch warnings. 
 | Unity | 6000.3.17f1 | [Download](https://unity.com/releases/editor/whats-new/6000.3.17f1#installs) | We have deployed 6000.3.17f1 in the studio, but any future bugfix releases within 6000.3.XX will be backwards compatible with this version. You can safely ignore any version mismatch warnings.
-| Gamemaker | 2024.13.1.193 | [Download](https://releases.gamemaker.io/release-notes/2024/13) | A simple game engine for making 2D games. Free to use.
-| Godot | 4.4.1 | [Download](https://godotengine.org/download/archive/4.4.1-stable/) | Open source game engine, capable of making both 2D & 3D games. Free to use.
+| Gamemaker | 2026.0.0 | [Download](https://releases.gamemaker.io/release-notes/2026/0) | A simple game engine for making 2D games. Free to use.
+| Godot | 4.7.0 | [Download](https://godotengine.org/download/archive/4.7-stable/) | Open source game engine, capable of making both 2D & 3D games. Free to use.
 
 ### General
 
@@ -32,7 +32,7 @@ Please note that in most instances the software available is not the latest vers
 | Adobe Substance 3D Designer | 15.0.1 | | ''
 | Adobe Substance 3D Sampler | 5.1.0 | | ''
 | Adobe Full Suite (Photoshop, Premiere etc.) | Latest | | While available for all students to use for free in the GA studios, at-home access requires a paid license. Falmouth University has a deal with Adobe, which allows students to purchase an annual license at a sizeable discount - £64.47/year. _(To purchase the cut-price deal for at-home Adobe access, please click [here](https://softwareregistration.falmouth.ac.uk/).)_
-| ZBrush | 2025.3 | | ZBrush is available via the [Maxon One subscription](https://www.maxon.net/en/educational-licenses), available with an educational discount at £66 for one year.
+| ZBrush | 2026 | | ZBrush is available via the [Maxon One subscription](https://www.maxon.net/en/educational-licenses), available with an educational discount at £66 for one year.
 | PureRef | 1.11.1 | [Download](https://www.pureref.com/download.php) | PureRef is free to download from their website.
 | Marmoset Toolbag | 5.01 | [Download](https://marmoset.co/posts/marmoset-toolbag-5-official-release/#dltoolbag) | Suite of 3d asset creation and viewing/presenting tools. Has a free trial but is other wise a subscription based software license. This is best accessed via the machines in the studio.
 
